@@ -27,11 +27,6 @@ for i in range(0,jpg_dosya_sayisi,1):
             sayac = 0
         elif j == xml_dosya_sayisi-1 and sayac == 1:
             silinicek_jpg = liste[i]
-            print(liste[i])
+            os.remove(silinicek_jpg+".jpg")
             deger += 1
     sayac = 1
-print("xml olmayanlarin sayisi: ",deger)
-
-for i in range(0,sayac):
-      os.remove(silinicek_jpg[i]+".jpg")
-#887 ve 863
