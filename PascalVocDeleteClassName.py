@@ -1,7 +1,6 @@
 # Read in the file
 import glob,os
 dizi = glob.glob("*.xml")
-sayac = 0
 className = '0'
 for i in range(0,len(dizi)):
   with open(str(dizi[i]), 'r') as file :
