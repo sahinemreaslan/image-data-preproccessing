@@ -31,7 +31,7 @@ elif(jpg_dosya_sayisi < xml_dosya_sayisi):
                 sayac = 0
         if sayac == 1:
             silinecek_xml = liste2[i]
-            os.remove(silinicek_jpg+".xml")
+            os.remove(silinecek_xml+".xml")
         sayac = 1
 else:
     print("esit")
