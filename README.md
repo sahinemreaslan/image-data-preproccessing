@@ -32,3 +32,7 @@ XML etiketli dosyaların içerisinde ki width ve height ölçülerini kontrol et
 ## jpg_xml_folder_number_equalization
 
 Jpg ve XML etiket sayılarını karşılaştırıyor, hangisi fazlaysa silerek etiket ve görsellerin eşitlenmesini sağlıyor.
+
+## video_to_image.py
+
+Videoyu istenen ölçülerde framelere ayırarak fotoğraflar çıkarıyor.
