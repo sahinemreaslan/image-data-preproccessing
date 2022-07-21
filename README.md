@@ -6,13 +6,21 @@ Bu depoda bulunan kod parçacıkları nesne sınıflandırma, nesne tespiti gibi
 
 
 ## FotoğraftanWidthHeightYazdirma.py
+ 
  Fotoğraftaki genişlik ve yükseklik değerlerini okuyarak xml etiketlerine yazmaya yarıyor.
+
 ## PascalVocDeleteClassName.py
+
  PASCAL VOC formatındaki etiketlerin sınıf isimlerini değiştirmeye yarayan kod parçacığı
+
 ## folderRenameExtentions.py
+
  Toplu görsel ismini değiştirme yöntemi
+
 ## image_augmentation.py
+ 
  Verileri 4 farklı yöntemle(parlaklık, keskinlik, bulanıklık, döndürme) çoğaltmayı sağlar.
+ 
 ## image_rotation.py
 
 Belli sayıda ki görselin değişik açılarla döndürülmesini sağlar.
@@ -20,3 +28,7 @@ Belli sayıda ki görselin değişik açılarla döndürülmesini sağlar.
 ## İmgWeightKontrolu.py
 
 XML etiketli dosyaların içerisinde ki width ve height ölçülerini kontrol etmeye yarar.
+
+## jpg_xml_folder_number_equalization
+
+Jpg ve XML etiket sayılarını karşılaştırıyor, hangisi fazlaysa silerek etiket ve görsellerin eşitlenmesini sağlıyor.
