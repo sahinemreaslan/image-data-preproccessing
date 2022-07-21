@@ -15,6 +15,9 @@ Bu depoda bulunan kod parçacıkları nesne sınıflandırma, nesne tespiti gibi
 --image_augmentation.py
 
 --image_rotation.py
+
 Belli sayıda ki görselin değişik açılarla döndürülmesini sağlar.
+
 --İmgWeightKontrolu.py
+
 XML etiketli dosyaların içerisinde ki width ve height ölçülerini kontrol etmeye yarar.
